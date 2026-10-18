@@ -39,14 +39,6 @@ Manual testing · Test case design · Exploratory testing · Black-box testing �
 
 The bug report intentionally distinguishes observed behavior from confirmed product defects. Some findings require clarification of intended business rules or additional evidence before they can be classified as defects. No actual payment was completed as part of the recorded checks.
 
-## Suggested interview discussion
-
-- How I converted user workflows into test scenarios and cases
-- How I made bug reports reproducible
-- How I handled ambiguous expected behavior
-- How I prioritized issues affecting checkout, pricing, and customer experience
-- What additional evidence or regression checks I would gather before closing a defect
-
 ### Jira Practice Project
 
 Practiced Jira issue tracking using observations from my manual QA testing assessment.
