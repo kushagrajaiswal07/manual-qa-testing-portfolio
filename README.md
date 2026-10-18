@@ -2,8 +2,6 @@
 
 An independent manual QA portfolio project demonstrating test design, black-box testing, exploratory testing, and structured defect documentation for an e-commerce storefront.
 
-> **Portfolio note:** This repository is a sanitized presentation of testing practice. It is not an endorsement by, or a claim of employment with, any company. Publish only if the original assessment terms permit reuse of your work. If they do not, use this structure with a separate public demo application and original test data.
-
 ## Project overview
 
 The goal was to evaluate customer-facing e-commerce flows through the visible user interface, without source-code or backend access.
