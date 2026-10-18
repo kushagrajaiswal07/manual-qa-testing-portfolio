@@ -48,3 +48,17 @@ The bug report intentionally distinguishes observed behavior from confirmed prod
 - How I handled ambiguous expected behavior
 - How I prioritized issues affecting checkout, pricing, and customer experience
 - What additional evidence or regression checks I would gather before closing a defect
+
+### Jira Practice Project
+
+Practiced Jira issue tracking using observations from my manual QA testing assessment.
+
+**What I practiced:**
+- Creating and documenting bug tickets
+- Writing reproduction steps and expected vs. actual results
+- Setting provisional priorities and labels
+- Organizing issues on a Jira workflow board
+
+**Evidence:** [View Jira Practice](./Jira-Practice/README.md)
+
+*This is a personal learning project, not professional Jira experience or an official InstaDost project.*
